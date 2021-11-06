@@ -1,0 +1,25 @@
+{
+  "name": "scramble-game-logic",
+  "version": "1.0.0",
+  "description": "Logic for my scramble game with Typescript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon dist/index",
+    "watch": "tsc --w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryHolurantie/scramble-game-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerryHolurantie/scramble-game-logic/issues"
+  },
+  "homepage": "https://github.com/jerryHolurantie/scramble-game-logic#readme",
+  "devDependencies": {
+    "tsc-watch": "^4.5.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  }
+}
